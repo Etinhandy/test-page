@@ -78,7 +78,7 @@ nav {
 }
 
 .images-1 {
-    background-image: url(../images/icon-access-anywhere.svg);
+    background-image: url("../images/icon-access-anywhere.svg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -86,7 +86,7 @@ nav {
 
 
 .images-2 {
-    background: url("../images/icon-access-anywhere.svg");
+    background-image: url("../images/icon-access-anywhere.svg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -94,7 +94,7 @@ nav {
 
 
 .images-3 {
-    background: url("../images/illustration-intro.png");
+    background-image: url("../images/illustration-intro.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -102,7 +102,7 @@ nav {
 
 
 .images-4 {
-    background: url(../images/illustration-stay-productive.png);
+    background-image: url("../images/illustration-stay-productive.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
